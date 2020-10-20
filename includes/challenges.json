@@ -1,0 +1,93 @@
+[
+    {
+        "title": "Challenge website in oop",
+        "description": "Rebuild this website with oop and database"
+    },
+    {
+        "title": "A weight tracker app",
+        "description": "- It accepts a set of manual entries of weight measurements taken at different dates <br> - It can plot a graph <br> - It can allow to track multiple entities, for example more than one person weight <br> - Store them somewhere"
+    },
+    {
+        "title": "A calculator app",
+        "description": "- A standard calculator: numbers, +, -, *, /, and the result"
+    },
+    {
+        "title": "A book database",
+        "description": "- Enter the books you own <br> - Enter the books you’d like to buy <br> - Store the book info, images"
+    },
+    {
+        "title": "A recipes app",
+        "description": "- Enter a name, a description with the steps <br> - Have pictures <br> - Have some ranking for difficulty and quality <br> - Add the time needed <br> - Have different steps with a picture for each <br> - Store them somewhere"
+    },
+    {
+        "title": "A bill tracker",
+        "description": "- Log bills, amounts and date <br> - List bills <br> - Have a few graphs (this year / last year) <br> - Store them somewhere"
+    },
+    {
+        "title": "An expense tracker",
+        "description": "- Log expenses, tag them (or have categories) <br> - List expenses <br> - Have a few graphs (last month / last year) <br> - Store them somewhere"
+    },
+    {
+        "title": "A chat application",
+        "description": "- Some sort of stripped-down Slack <br> - People enter without authentication and are assigned a name, stored for when they come back <br> - Store the history <br> - Add notifications"
+    },
+    {
+        "title": "A notes app",
+        "description": "- Add a new note <br> - List all your notes in the sidebar <br> - Store them somewhere"
+    },
+    {
+        "title": "A personal diary",
+        "description": "- Add entries with a date and text <br> - Entries have a date <br> - Show more recent first <br> - Attach pictures <br> - Store them somewhere"
+    },
+    {
+        "title": "A promodoro app",
+        "description": "- Enter a time <br> - Start timer <br> - Alert when the time is over"
+    },
+    {
+        "title": "A meme generator",
+        "description": "- Have 10 popular meme images <br> - Let the user add the text <br> - Result is image + text <br> - Store the history"
+    },
+    {
+        "title": "Tic-tac-toe game",
+        "description": "- We all know what a tic-tac-toe game is...."
+    },
+    {
+        "title": "A blog engine",
+        "description": "- Allow to login and add posts <br> - Visitors can add comments <br> - Store the data somewhere"
+    },
+    {
+        "title": "A QA engine",
+        "description": "- Allow to login <br> - Allow to add questions <br> - Allow to answer to questions <br> - Allow original user to choose the best question <br> - Store the data somewhere"
+    },
+    {
+        "title": "A forum engine",
+        "description": "- Allow to login <br> - Allow to add posts <br> - Allow to comment on posts <br> - Store the data somewhere"
+    },
+    {
+        "title": "An embedded live chat",
+        "description": "- Have a “backend” where you respond <br> - Embed on a web page <br> - Let people write to you privately"
+    },
+    {
+        "title": "A hacker news client (api powered)",
+        "description": "- List the popular posts <br> - Show a post comments <br> - Show a user profile <br> - Search HN"
+    },
+    {
+        "title": "A reddit client (api powered)",
+        "description": "- List the popular posts <br> - List the comments of a post <br> - Show a user profile"
+    },
+    {
+        "title": "An instagram client (api powered)",
+        "description": "- Enter an hashtag and get the latest posts <br> - Enter a username and get the latest posts <br> - Allow to store one or more hashtags/usernames and get all the latest posts from those"
+    },
+    {
+        "title": "A github client (api powered)",
+        "description": "- List the popular repositories from today / week / month <br> - List the latest commits in a repository <br> - Show a person or organization public repositories ranked by stars"
+    },
+    {
+        "title": "A unsplash Api",
+        "description": "- Search images by topic <br> - Let the user enter a term, show relevant images"
+    }
+
+
+    
+]
